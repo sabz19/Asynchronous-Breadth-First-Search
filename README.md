@@ -1,5 +1,4 @@
-# Asynchronous-Breadth-First-Search
+# Synchronous BellmanFord
 
 ## Project Details </n>
-
-Constructs asynchronous breadth first shortest tree from a given source vertex. </n>
+Implements the BellmanFord algorithm based on a given network topology to find shortest distance from source to all vertices. </n>
